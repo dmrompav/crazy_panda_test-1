@@ -1,3 +1,3 @@
 module.export = {
-	publicPath: '/my-project/'
+	publicPath: '/crazy_panda_test-1/'
 }
